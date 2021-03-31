@@ -6,11 +6,11 @@
  
 <br>
 
-Link to Deployment: [Employee Directory](./public/Screenshot.JPG)
+Link to Deployment: [Employee Directory]()
 
 ## Fucntionality
 
-![Screenshot](public/assets/Screenshot/Home.JPG)
+![Screenshot](public/Screenshot.JPG)
 
 ## Bugs and Issues
 Found a bug? Review any [open issues][open-issues] or create a [new issues here][new-issue] so we can fix it for you!
