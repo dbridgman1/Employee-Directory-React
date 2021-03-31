@@ -6,7 +6,7 @@
  
 <br>
 
-Link to Deployment: [Employee Directory](./public/Screenshot.JPG)
+Link to Deployment: [Employee Directory](public/Screenshot.JPG)
 
 ## Fucntionality
 
