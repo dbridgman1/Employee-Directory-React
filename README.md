@@ -2,11 +2,14 @@
 
 ## Description
 
+
+This application allows an employer to search through the employee directory in an efficient manner.
+
 ## Developer 
  
 <br>
 
-Link to Deployment: [Employee Directory]()
+Link to Deployment: [Employee Directory](https://dbridgman1.github.io/Employee-Directory-React/)
 
 ## Fucntionality
 
